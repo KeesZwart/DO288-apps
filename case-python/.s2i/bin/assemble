@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/usr/libexec/s2i/
+/usr/libexec/s2i/assemble
 
 echo echo "---> Installing KAAAAAS"
 echo echo "---> Installing PAAAAAS"
